@@ -1,0 +1,21 @@
+body{
+    background-color: lightgreen;
+}
+
+
+#deactivated-title{
+    display:block;
+    margin: 10vh auto
+}
+
+#exclamation-image{
+    display:block;
+    margin: 5vh auto;
+    width:20%
+}
+
+#click-info{
+    text-align: center;
+    font-size: 2vw;
+
+}

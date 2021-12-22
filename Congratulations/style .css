@@ -1,0 +1,27 @@
+body{
+    background-color: lightgreen;
+}
+
+
+#congratulations-title{
+    display:block;
+    margin: 7vh auto
+}
+
+
+p,li{
+    font-size: 1.8vw;
+    margin:0 10vw;
+    width:80vw;
+    font-weight: bold;
+}
+
+li:hover{
+    color:blue
+}
+
+#learn-my-way{
+    display:block;
+    margin:0 auto
+}
+
